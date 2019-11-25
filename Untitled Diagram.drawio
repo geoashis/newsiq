@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-25T14:44:35.694Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="XYMWGn3Hb0FoHwh_8KO4" version="12.3.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-25T14:45:02.344Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="4X-gPCwAxGfCnCaN_ULM" version="12.3.0" type="github" pages="1">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1186" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -165,7 +165,7 @@
         <mxCell id="oaagkvBM30d2irfokbAs-101" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="3">
           <mxGeometry x="498" y="432" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="oaagkvBM30d2irfokbAs-133" value="iterate for all &#xa;non-latesttable list" style="" vertex="1" parent="3">
+        <mxCell id="oaagkvBM30d2irfokbAs-133" value="iterate for all &#xa;non-latest table list" style="" vertex="1" parent="3">
           <mxGeometry x="330" y="254" width="109" height="28" as="geometry"/>
         </mxCell>
         <mxCell id="oaagkvBM30d2irfokbAs-137" value="Import required&#xa;function from init.py" style="" vertex="1" parent="3">
